@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756853666 source:d:\exercices youcode\ initialisation et affichage\main.c
+	<stdio.h>
+	<stdlib.h>
+

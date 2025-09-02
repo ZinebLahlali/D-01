@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756853517 source:d:\exercices youcode\somme des n nombres\main.c
+	<stdio.h>
+	<stdlib.h>
+
