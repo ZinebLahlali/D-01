@@ -8,6 +8,7 @@ int main()
    scanf ("%f",&V_kmh);
    V_ms = V_kmh *  0.27778;
    printf("la vitesse en m/s est %.2f", V_ms);
-
+ 
+   
     return 0;
 }

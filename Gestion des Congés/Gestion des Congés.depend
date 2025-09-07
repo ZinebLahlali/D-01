@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756922534 source:d:\exercices youcode\gestion des congés\main.c
+	<stdio.h>
+	<stdlib.h>
+
